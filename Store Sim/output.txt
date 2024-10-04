@@ -1,0 +1,906 @@
+Number of Customers added: 1
+Number of Customers added: 1
+Number of Customers added: 2
+Number of Customers added: 1
+Number of Customers added: 3
+Number of Customers added: 1
+Number of Customers added: 3
+Number of Customers added: 3
+Number of Customers added: 1
+Number of Customers added: 1
+Number of Customers added: 1
+Number of Customers added: 2
+Number of Customers added: 2
+Number of Customers added: 2
+Number of Customers added: 1
+Number of Customers added: 2
+Number of Customers added: 1
+Number of Customers added: 1
+Number of Customers added: 1
+Number of Customers added: 3
+Number of Customers added: 2
+Number of Customers added: 1
+Number of Customers added: 1
+Number of Customers added: 2
+Number of Customers added: 3
+Number of Customers added: 3
+Number of Customers added: 2
+Number of Customers added: 2
+Number of Customers added: 3
+Number of Customers added: 2
+Number of Customers added: 2
+Number of Customers added: 2
+Number of Customers added: 3
+Number of Customers added: 2
+Number of Customers added: 3
+Number of Customers added: 2
+Number of Customers added: 3
+Number of Customers added: 1
+Number of Customers added: 3
+Number of Customers added: 3
+Number of Customers added: 3
+Number of Customers added: 2
+Number of Customers added: 2
+Number of Customers added: 1
+Number of Customers added: 3
+Number of Customers added: 3
+Number of Customers added: 3
+Number of Customers added: 1
+Number of Customers added: 1
+Number of Customers added: 3
+Number of Customers added: 1
+Number of Customers added: 2
+Number of Customers added: 1
+Number of Customers added: 2
+Number of Customers added: 1
+Number of Customers added: 1
+Number of Customers added: 3
+Number of Customers added: 2
+Number of Customers added: 2
+Number of Customers added: 2
+Number of Customers added: 2
+Number of Customers added: 3
+Number of Customers added: 1
+Number of Customers added: 2
+Number of Customers added: 3
+Number of Customers added: 2
+Number of Customers added: 3
+Number of Customers added: 2
+Number of Customers added: 1
+Number of Customers added: 3
+Number of Customers added: 2
+Number of Customers added: 1
+Number of Customers added: 2
+Number of Customers added: 1
+Number of Customers added: 1
+Number of Customers added: 2
+Number of Customers added: 3
+Number of Customers added: 3
+Number of Customers added: 2
+Number of Customers added: 3
+Number of Customers added: 2
+Number of Customers added: 2
+Number of Customers added: 2
+Number of Customers added: 2
+Number of Customers added: 1
+Number of Customers added: 1
+Number of Customers added: 3
+Number of Customers added: 3
+Number of Customers added: 3
+Number of Customers added: 2
+Number of Customers added: 1
+Number of Customers added: 3
+Number of Customers added: 2
+Number of Customers added: 1
+Number of Customers added: 2
+Number of Customers added: 3
+Number of Customers added: 2
+Number of Customers added: 3
+Number of Customers added: 3
+Number of Customers added: 1
+
+number of total:201
+
+ID: 1
+Time In Store: 15.2
+Number of Items: 9
+
+ID: 2
+Time In Store: 21.0333
+Number of Items: 8
+
+ID: 3
+Time In Store: 3.58333
+Number of Items: 1
+
+ID: 4
+Time In Store: 59.45
+Number of Items: 16
+
+ID: 5
+Time In Store: 76.6667
+Number of Items: 16
+
+ID: 6
+Time In Store: 178.033
+Number of Items: 31
+
+ID: 7
+Time In Store: 51.6667
+Number of Items: 9
+
+ID: 8
+Time In Store: 93.2833
+Number of Items: 16
+
+ID: 9
+Time In Store: 202.6
+Number of Items: 30
+
+ID: 10
+Time In Store: 85.8
+Number of Items: 11
+
+ID: 11
+Time In Store: 155.95
+Number of Items: 20
+
+ID: 12
+Time In Store: 30.8333
+Number of Items: 4
+
+ID: 13
+Time In Store: 447.217
+Number of Items: 51
+
+ID: 14
+Time In Store: 8.85
+Number of Items: 1
+
+ID: 15
+Time In Store: 245.067
+Number of Items: 28
+
+ID: 16
+Time In Store: 194.2
+Number of Items: 20
+
+ID: 17
+Time In Store: 353.75
+Number of Items: 33
+
+ID: 18
+Time In Store: 448.383
+Number of Items: 38
+
+ID: 19
+Time In Store: 191.867
+Number of Items: 15
+
+ID: 20
+Time In Store: 178.5
+Number of Items: 14
+
+ID: 21
+Time In Store: 110.233
+Number of Items: 8
+
+ID: 22
+Time In Store: 536.667
+Number of Items: 39
+
+ID: 23
+Time In Store: 73.6
+Number of Items: 5
+
+ID: 24
+Time In Store: 118.017
+Number of Items: 8
+
+ID: 25
+Time In Store: 110.517
+Number of Items: 7
+
+ID: 26
+Time In Store: 66.5333
+Number of Items: 4
+
+ID: 27
+Time In Store: 184.317
+Number of Items: 11
+
+ID: 28
+Time In Store: 71.2833
+Number of Items: 4
+
+ID: 29
+Time In Store: 393.283
+Number of Items: 21
+
+ID: 30
+Time In Store: 138.083
+Number of Items: 7
+
+ID: 31
+Time In Store: 248.45
+Number of Items: 12
+
+ID: 32
+Time In Store: 539.85
+Number of Items: 26
+
+ID: 33
+Time In Store: 145.3
+Number of Items: 7
+
+ID: 34
+Time In Store: 131.2
+Number of Items: 6
+
+ID: 35
+Time In Store: 653.333
+Number of Items: 30
+
+ID: 36
+Time In Store: 68.1
+Number of Items: 3
+
+ID: 37
+Time In Store: 71.05
+Number of Items: 3
+
+ID: 38
+Time In Store: 297.667
+Number of Items: 12
+
+ID: 39
+Time In Store: 247.617
+Number of Items: 10
+
+ID: 40
+Time In Store: 257.383
+Number of Items: 10
+
+ID: 41
+Time In Store: 1106.62
+Number of Items: 43
+
+ID: 42
+Time In Store: 51.4833
+Number of Items: 2
+
+ID: 43
+Time In Store: 107
+Number of Items: 4
+
+ID: 44
+Time In Store: 26.5667
+Number of Items: 1
+
+ID: 45
+Time In Store: 80.3333
+Number of Items: 3
+
+ID: 46
+Time In Store: 27.7333
+Number of Items: 1
+
+ID: 47
+Time In Store: 221.383
+Number of Items: 8
+
+ID: 48
+Time In Store: 115.1
+Number of Items: 4
+
+ID: 49
+Time In Store: 574.717
+Number of Items: 20
+
+ID: 50
+Time In Store: 446.733
+Number of Items: 15
+
+ID: 51
+Time In Store: 564.95
+Number of Items: 19
+
+ID: 52
+Time In Store: 890.867
+Number of Items: 30
+
+ID: 53
+Time In Store: 769.367
+Number of Items: 25
+
+ID: 54
+Time In Store: 1353.85
+Number of Items: 44
+
+ID: 55
+Time In Store: 158.883
+Number of Items: 5
+
+ID: 56
+Time In Store: 445.183
+Number of Items: 14
+
+ID: 57
+Time In Store: 917.6
+Number of Items: 28
+
+ID: 58
+Time In Store: 131.433
+Number of Items: 4
+
+ID: 59
+Time In Store: 404.883
+Number of Items: 12
+
+ID: 60
+Time In Store: 337.7
+Number of Items: 10
+
+ID: 61
+Time In Store: 507.233
+Number of Items: 15
+
+ID: 62
+Time In Store: 834.733
+Number of Items: 24
+
+ID: 63
+Time In Store: 451.95
+Number of Items: 13
+
+ID: 64
+Time In Store: 822.4
+Number of Items: 23
+
+ID: 65
+Time In Store: 1680.8
+Number of Items: 47
+
+ID: 66
+Time In Store: 142.55
+Number of Items: 4
+
+ID: 67
+Time In Store: 918.85
+Number of Items: 25
+
+ID: 68
+Time In Store: 624.683
+Number of Items: 17
+
+ID: 69
+Time In Store: 75.3
+Number of Items: 2
+
+ID: 70
+Time In Store: 868.1
+Number of Items: 23
+
+ID: 71
+Time In Store: 830.467
+Number of Items: 22
+
+ID: 72
+Time In Store: 1084.6
+Number of Items: 28
+
+ID: 73
+Time In Store: 1829.5
+Number of Items: 46
+
+ID: 74
+Time In Store: 317.983
+Number of Items: 8
+
+ID: 75
+Time In Store: 397.033
+Number of Items: 10
+
+ID: 76
+Time In Store: 1182.55
+Number of Items: 29
+
+ID: 77
+Time In Store: 285.283
+Number of Items: 7
+
+ID: 78
+Time In Store: 407.9
+Number of Items: 10
+
+ID: 79
+Time In Store: 501.133
+Number of Items: 12
+
+ID: 80
+Time In Store: 668.6
+Number of Items: 16
+
+ID: 81
+Time In Store: 208.9
+Number of Items: 5
+
+ID: 82
+Time In Store: 2567.35
+Number of Items: 60
+
+ID: 83
+Time In Store: 682.733
+Number of Items: 16
+
+ID: 84
+Time In Store: 743.55
+Number of Items: 17
+
+ID: 85
+Time In Store: 131.083
+Number of Items: 3
+
+ID: 86
+Time In Store: 1565.92
+Number of Items: 35
+
+ID: 87
+Time In Store: 45.65
+Number of Items: 1
+
+ID: 88
+Time In Store: 229
+Number of Items: 5
+
+ID: 89
+Time In Store: 319.983
+Number of Items: 7
+
+ID: 90
+Time In Store: 1075.67
+Number of Items: 23
+
+ID: 91
+Time In Store: 374.15
+Number of Items: 8
+
+ID: 92
+Time In Store: 654.767
+Number of Items: 14
+
+ID: 93
+Time In Store: 286.667
+Number of Items: 6
+
+ID: 94
+Time In Store: 286.383
+Number of Items: 6
+
+ID: 95
+Time In Store: 1001.92
+Number of Items: 21
+
+ID: 96
+Time In Store: 682.167
+Number of Items: 14
+
+ID: 97
+Time In Store: 398.483
+Number of Items: 8
+
+ID: 98
+Time In Store: 659.883
+Number of Items: 13
+
+ID: 99
+Time In Store: 1269.37
+Number of Items: 25
+
+ID: 100
+Time In Store: 1522.67
+Number of Items: 30
+
+ID: 101
+Time In Store: 51.7667
+Number of Items: 1
+
+ID: 102
+Time In Store: 1054.6
+Number of Items: 20
+
+ID: 103
+Time In Store: 52.6833
+Number of Items: 1
+
+ID: 104
+Time In Store: 214.967
+Number of Items: 4
+
+ID: 105
+Time In Store: 984.3
+Number of Items: 18
+
+ID: 106
+Time In Store: 384.117
+Number of Items: 7
+
+ID: 107
+Time In Store: 1004.22
+Number of Items: 18
+
+ID: 108
+Time In Store: 567.833
+Number of Items: 10
+
+ID: 109
+Time In Store: 1617.85
+Number of Items: 28
+
+ID: 110
+Time In Store: 347.283
+Number of Items: 6
+
+ID: 111
+Time In Store: 173.333
+Number of Items: 3
+
+ID: 112
+Time In Store: 998.517
+Number of Items: 17
+
+ID: 113
+Time In Store: 821.6
+Number of Items: 14
+
+ID: 114
+Time In Store: 1852.05
+Number of Items: 31
+
+ID: 115
+Time In Store: 717.583
+Number of Items: 12
+
+ID: 116
+Time In Store: 1032.25
+Number of Items: 17
+
+ID: 117
+Time In Store: 1335.53
+Number of Items: 22
+
+ID: 118
+Time In Store: 494.15
+Number of Items: 8
+
+ID: 119
+Time In Store: 61.8667
+Number of Items: 1
+
+ID: 120
+Time In Store: 563.933
+Number of Items: 9
+
+ID: 121
+Time In Store: 1066.8
+Number of Items: 17
+
+ID: 122
+Time In Store: 250.9
+Number of Items: 4
+
+ID: 123
+Time In Store: 764.817
+Number of Items: 12
+
+ID: 124
+Time In Store: 1229.97
+Number of Items: 19
+
+ID: 125
+Time In Store: 582.567
+Number of Items: 9
+
+ID: 126
+Time In Store: 1446.35
+Number of Items: 22
+
+ID: 127
+Time In Store: 263.1
+Number of Items: 4
+
+ID: 128
+Time In Store: 2169.33
+Number of Items: 33
+
+ID: 129
+Time In Store: 133.75
+Number of Items: 2
+
+ID: 130
+Time In Store: 2603.42
+Number of Items: 39
+
+ID: 131
+Time In Store: 1965.48
+Number of Items: 29
+
+ID: 132
+Time In Store: 814.117
+Number of Items: 12
+
+ID: 133
+Time In Store: 135.367
+Number of Items: 2
+
+ID: 134
+Time In Store: 1098.55
+Number of Items: 16
+
+ID: 135
+Time In Store: 1237.85
+Number of Items: 18
+
+ID: 136
+Time In Store: 1256.82
+Number of Items: 18
+
+ID: 137
+Time In Store: 1344.55
+Number of Items: 19
+
+ID: 138
+Time In Store: 706.683
+Number of Items: 10
+
+ID: 139
+Time In Store: 283.033
+Number of Items: 4
+
+ID: 140
+Time In Store: 1577.03
+Number of Items: 22
+
+ID: 141
+Time In Store: 2152.92
+Number of Items: 30
+
+ID: 142
+Time In Store: 1164.13
+Number of Items: 16
+
+ID: 143
+Time In Store: 1033.07
+Number of Items: 14
+
+ID: 144
+Time In Store: 1253.87
+Number of Items: 17
+
+ID: 145
+Time In Store: 2018.72
+Number of Items: 27
+
+ID: 146
+Time In Store: 757.783
+Number of Items: 10
+
+ID: 147
+Time In Store: 76.6667
+Number of Items: 1
+
+ID: 148
+Time In Store: 1612.18
+Number of Items: 21
+
+ID: 149
+Time In Store: 1088.12
+Number of Items: 14
+
+ID: 150
+Time In Store: 621.917
+Number of Items: 8
+
+ID: 151
+Time In Store: 4430.8
+Number of Items: 57
+
+ID: 152
+Time In Store: 1732.5
+Number of Items: 22
+
+ID: 153
+Time In Store: 1810.72
+Number of Items: 23
+
+ID: 154
+Time In Store: 1890.33
+Number of Items: 24
+
+ID: 155
+Time In Store: 1833.98
+Number of Items: 23
+
+ID: 156
+Time In Store: 718.317
+Number of Items: 9
+
+ID: 157
+Time In Store: 322.783
+Number of Items: 4
+
+ID: 158
+Time In Store: 1615.25
+Number of Items: 20
+
+ID: 159
+Time In Store: 646.05
+Number of Items: 8
+
+ID: 160
+Time In Store: 1717.37
+Number of Items: 21
+
+ID: 161
+Time In Store: 327.433
+Number of Items: 4
+
+ID: 162
+Time In Store: 165.667
+Number of Items: 2
+
+ID: 163
+Time In Store: 578.367
+Number of Items: 7
+
+ID: 164
+Time In Store: 837.633
+Number of Items: 10
+
+ID: 165
+Time In Store: 334.7
+Number of Items: 4
+
+ID: 166
+Time In Store: 1525.52
+Number of Items: 18
+
+ID: 167
+Time In Store: 2287.68
+Number of Items: 27
+
+ID: 168
+Time In Store: 3687.72
+Number of Items: 43
+
+ID: 169
+Time In Store: 2169.23
+Number of Items: 25
+
+ID: 170
+Time In Store: 701.317
+Number of Items: 8
+
+ID: 171
+Time In Store: 1403.63
+Number of Items: 16
+
+ID: 172
+Time In Store: 438.533
+Number of Items: 5
+
+ID: 173
+Time In Store: 710.083
+Number of Items: 8
+
+ID: 174
+Time In Store: 621.9
+Number of Items: 7
+
+ID: 175
+Time In Store: 2130.07
+Number of Items: 24
+
+ID: 176
+Time In Store: 2064.03
+Number of Items: 23
+
+ID: 177
+Time In Store: 359.483
+Number of Items: 4
+
+ID: 178
+Time In Store: 359.55
+Number of Items: 4
+
+ID: 179
+Time In Store: 453.283
+Number of Items: 5
+
+ID: 180
+Time In Store: 90.5667
+Number of Items: 1
+
+ID: 181
+Time In Store: 825.667
+Number of Items: 9
+
+ID: 182
+Time In Store: 2597.9
+Number of Items: 28
+
+ID: 183
+Time In Store: 1112.65
+Number of Items: 12
+
+ID: 184
+Time In Store: 278.133
+Number of Items: 3
+
+ID: 185
+Time In Store: 5155.15
+Number of Items: 55
+
+ID: 186
+Time In Store: 1969.27
+Number of Items: 21
+
+ID: 187
+Time In Store: 568.117
+Number of Items: 6
+
+ID: 188
+Time In Store: 862.267
+Number of Items: 9
+
+ID: 189
+Time In Store: 1148.55
+Number of Items: 12
+
+ID: 190
+Time In Store: 3773.7
+Number of Items: 39
+
+ID: 191
+Time In Store: 676.167
+Number of Items: 7
+
+ID: 192
+Time In Store: 483.45
+Number of Items: 5
+
+ID: 193
+Time In Store: 684.167
+Number of Items: 7
+
+ID: 194
+Time In Store: 2443.97
+Number of Items: 25
+
+ID: 195
+Time In Store: 395.15
+Number of Items: 4
+
+ID: 196
+Time In Store: 2764.18
+Number of Items: 28
+
+ID: 197
+Time In Store: 789.65
+Number of Items: 8
+
+ID: 198
+Time In Store: 3790.23
+Number of Items: 38
+
+ID: 199
+Time In Store: 2594.3
+Number of Items: 26
+
+ID: 200
+Time In Store: 2793.7
+Number of Items: 28
+
+ID: 201
+Time In Store: 1511.78
+Number of Items: 15
